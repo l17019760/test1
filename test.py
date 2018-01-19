@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print ("Hello Billy")
+print ("That's True")
